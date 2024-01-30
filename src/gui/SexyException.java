@@ -2,7 +2,9 @@ package gui;
 
 import java.util.ArrayList;
 import java.util.List;
-
+/**
+ * @author JonTheZero
+ * */
 public class SexyException extends Exception {
 	private String message="Exception";
 	private ArrayList<String> units;

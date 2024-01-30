@@ -16,7 +16,9 @@ import javax.swing.JLabel;
 import javax.swing.JPanel;
 import javax.swing.JTextField;
 import javax.swing.border.Border;
-
+/**
+ * @author JonTheZero
+ * */
 
 
 public class XFrame extends JFrame {

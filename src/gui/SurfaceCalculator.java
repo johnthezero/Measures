@@ -3,7 +3,9 @@ package gui;
 import java.awt.Dimension;
 
 import measurement.MeasurementUnit;
-
+/**
+ * @author JonTheZero
+ * */
 public class SurfaceCalculator {
 	
 	private String length,width;

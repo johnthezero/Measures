@@ -3,6 +3,9 @@ package measurement;
 import java.util.ArrayList;
 import java.util.Arrays;
 
+/**
+ * @author JonTheZero
+ * */
 public enum MeasurementUnit {
 	METERS ("m"),
 	CENTIMETERS("cm"),
